@@ -1,1 +1,5 @@
 This is creating a new file from the github website
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+So git isnt constantly pushing and pulling automatic commits that dont reflect the progress chunks or changes in your code.
