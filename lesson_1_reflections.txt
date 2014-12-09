@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It was streamlined.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Proper version control!
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Only saves when nescessary 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+In development a lot of files communicate with each other and are needed as a package to run the project
+
+How can you use the commands git log and git diff to view the history of files?
+
+View ids of changes and compare the lines that were changed between versions
+
+How might using version control make you more confident to make changes that could break something?
+
+You can always revert to a previous respitory before the change!
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+git init - initialises a respitory
+git status - lists all new or modified files to be committed
+
+How do the diagrams help you visualize the branch structure?
+
+a node like diagram showing head and branches
+
+git log [commit name] - checks out a commit
+
+Git log --graph --oneline [master] [branch]
+
+git branch....shows the branch you are on
+
+git checkout...changes branch
+
+
+
+
+
+
+
