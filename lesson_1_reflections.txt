@@ -41,6 +41,24 @@ git branch....shows the branch you are on
 
 git checkout...changes branch
 
+How do you push a branch to your respitory?
+
+Git init- initializes repo on local version
+
+git add, git status, git commit files
+
+set up repo on github, get url
+
+git remote - shows active remotes
+
+git remote add origin [url] - adds origin
+
+git push origin master - uses two arguments origin and master to push the branch to the github repo
+
+
+
+
+
 
 
 
